@@ -8,3 +8,7 @@ Our build of qt, which is based on Valve's build of qt. We'll try to keep a list
 * QDockWidget can be dragged with its tab
 * QDockWidget shows close buttons on tabs (if closable)
 * QDockWidget titlebar is never shown (and is removed)
+
+### Dependencies
+Perl
+Python2
